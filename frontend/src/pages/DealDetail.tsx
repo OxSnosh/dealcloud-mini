@@ -1,0 +1,1 @@
+export default function DealDetail() { return <h1>Deal Detail</h1>; }
